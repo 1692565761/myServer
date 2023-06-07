@@ -1,0 +1,1 @@
+./npc -server=123.249.97.62:8024 -vkey=05l17qkuntin0wwu -type=tcp
